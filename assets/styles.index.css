@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24&family=Jersey+10&display=swap');
+.jersey-10-regular {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 4000;
+    font-style: normal;
+  }
+
+  body {
+    font-family: "jersey 10", sans-serif;
+  }
