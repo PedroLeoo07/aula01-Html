@@ -16,16 +16,16 @@
 
   body {
     font-family: "Montserrat", sans-serif;
-    color: #000000;
+    color: #00eeff;
     padding: 10px;
   }
 header {
-    background-color: #ff0e0e;
+    background-color: #000000;
     border-radius: 6px;
     height: 150px;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -39,7 +39,7 @@ header {
     justify-content: space-between;
 }
 main {
-    background-color: #ff0000;
+    background-color: #ff0101;
     border-radius: 6px;
     height: 100%;
     width: 74%;
@@ -69,4 +69,9 @@ footer a {
     color: #f1f1f1;
     text-decoration: none;
     font-weight: 500;
+}
+#image-profile {
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
 }
