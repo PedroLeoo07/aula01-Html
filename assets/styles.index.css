@@ -39,15 +39,34 @@ header {
     justify-content: space-between;
 }
 main {
-    background-color: #00fffb;
+    background-color: #ff0000;
     border-radius: 6px;
     height: 100%;
     width: 74%;
 }
 aside {
-    background-color: #000000;
+    background-color: #ffffff;
     border-radius: 6px;
     height: 100%;
     width: 25%;
 
+}
+footer {
+    background-color: #000000;
+    border-radius: 6px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    color: #f1f1f1;
+    font-size: 1.2rem;
+}
+footer a {
+    color: #f1f1f1;
+    text-decoration: none;
+    font-weight: 500;
 }
