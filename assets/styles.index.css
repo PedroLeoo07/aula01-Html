@@ -39,13 +39,13 @@ header {
     justify-content: space-between;
 }
 main {
-    background-color: #92fbfb;
+    background-color: #00fffb;
     border-radius: 6px;
     height: 100%;
     width: 74%;
 }
 aside {
-    background-color: #11076d;
+    background-color: #000000;
     border-radius: 6px;
     height: 100%;
     width: 25%;
